@@ -1,4 +1,4 @@
-# How-To-Create-LostSaga-Private-Server
+# How to create a lost saga private server
 
 [help] How to create a lost saga private server.
 I noticed that there is no guide that shows in detail how to start approaching the problem, the guide that I propose is a base from which to start, someone should add a solution on how:
