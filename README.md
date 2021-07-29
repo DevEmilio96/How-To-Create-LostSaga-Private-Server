@@ -1,7 +1,7 @@
 # How to create a lost saga private server
 
 [HELP] How to create a LostSaga private server
-I noticed that there is no guide that shows in detail how to start addressing the problem, the guide I propose is a base from which to start, someone should add a solution on how:
+I noticed that there is no guide that shows in detail how to start approach the problem, the guide I propose is a base from which to start, someone should add a solution on how:
 
 1) What to do with server files, how to use them for a p2p server.
 2) To improve the guide.
@@ -21,4 +21,5 @@ Microsoft® SQL Server® 2008 R2 SP2 - Express Edition : https://www.microsoft.c
 
 DirectX SDK June 2010 : https://www.microsoft.com/en-us/download/details.aspx?id=6812
 
+Microsoft Windows SDK for Windows 7 and .NET Framework 4 : https://www.microsoft.com/en-us/download/details.aspx?id=8279
 
