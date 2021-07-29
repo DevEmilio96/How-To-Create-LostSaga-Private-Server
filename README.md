@@ -14,11 +14,14 @@ The file is a word, you can download it in the github repository.You can edit th
 
 LINKS
 
-vs2010 ultimate: https://my.visualstudio.com/Downloads?q=visual%20studio%202010%20Ultimate&wt.mc_id=o~msft~vscom~older-downloads
+vs2010 ultimate : https://my.visualstudio.com/Downloads?q=visual%20studio%202010%20Ultimate&wt.mc_id=o~msft~vscom~older-downloads
 
 LS google Drive Source Files : https://drive.google.com/u/1/uc?id=1kUgJKnl6CeoCsSUpEkD7qIMF7aix7dbR&export=download
 
 boost1_5_0  : https://www.boost.org/users/history/version_1_50_0.html
 
 Microsoft® SQL Server® 2008 R2 SP2 - Express Edition : https://www.microsoft.com/it-it/download/details.aspx?id=30438
+
+DirectX SDK June 2010 : https://www.microsoft.com/en-us/download/details.aspx?id=6812
+
 
