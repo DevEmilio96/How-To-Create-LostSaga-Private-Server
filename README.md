@@ -23,3 +23,4 @@ DirectX SDK June 2010 : https://www.microsoft.com/en-us/download/details.aspx?id
 
 Microsoft Windows SDK for Windows 7 and .NET Framework 4 : https://www.microsoft.com/en-us/download/details.aspx?id=8279
 
+Tortoise : https://osdn.net/projects/tortoisesvn/storage/1.10.5/Application/TortoiseSVN-1.10.5.28651-x64-svn-1.10.6.msi/
