@@ -5,7 +5,7 @@ I noticed that there is no guide that shows in detail how to start addressing th
 
 1) What to do with server files, how to use them for a p2p server.
 2) To be able to compile the Client without errors.
-3) Improve driving.
+3) To improve the guide.
 
 Public Github Repository:https://github.com/DevEmilio96/How-T...Private-Server
 
