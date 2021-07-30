@@ -6,8 +6,13 @@ I noticed that there is no guide that shows in detail how to start approach the 
 1) What to do with server files, how to use them for a p2p server.
 2) To improve the guide.
 
-The file is a word, you can download it in the github repository.You can edit this file however you want, but only do so if you are sure of what you write. Those who will be most helpful, if they wish, can become the developers of this project, then sign up for github and apply to be a contributor.
+Public Github Repository:https://github.com/DevEmilio96/How-T...Private-Server
 
+The file is a .docx(word), you can download it in the github repository.You can edit this file however you want, but only do so if you are sure of what you write. Those who will be most helpful, if they wish, can become the developers of this project, then sign up for github and apply to be a contributor.
+
+[UPDATE] My advice for those who want to help me is: do not create a new project, but search for 'vc++ project' or "solution" (in the LostSaga directory) are projects (files) of vs2010 with all the rules already set and only the files needed for that functionality, you have to build the main ones and fix the errors, such as the server files (i.e. those that have 'svr' in the name) and the client files (LSCLIENT, lswebroker, autoupgrade etc.).
+
+careful, the project name does not always have the folder name, for example the project name of LSCLIENT is SurvivalProject2.
 
 LINKS
 
